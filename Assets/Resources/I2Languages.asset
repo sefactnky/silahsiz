@@ -1,0 +1,1919 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: fonts
+      TermType: 9
+      Description: 
+      Languages:
+      - Arabic SDF
+      - tr SDF
+      - FredokaOne-Regular SDF
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: recomended
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uFE93\uFEEE\uFED8\uFEDF\uFE8D \uFEC2\uFEB3\uFEEE\uFE98\uFEE3"
+      - "\u0130deal G\xFC\xE7"
+      - Recomended Power
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: TAP TO PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0625\u0636\u063A\u0637 \u0644\u0644\u0628\u062F\u0623"
+      - "Ba\u015Fla"
+      - Tap To Play
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: CHARACTERS
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0634\u0635\u062E\u064A\u0627\u062A"
+      - KARAKTERLER
+      - CHARACTERS
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: WEAPONS
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0623\u0633\u0644\u062D\u0629"
+      - "S\u0130LAHLAR"
+      - WEAPONS
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: FredokaOne-Regular SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: AREA 1-2
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - ARENA
+      - AREA
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: LiberationSans SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: textmeshprofont
+      TermType: 9
+      Description: 
+      Languages:
+      - Arabic SDF
+      - tr SDF
+      - FredokaOne-Regular SDF
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: testing
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "S\u0130LAHLAR"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: WEAPON
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "S\u0130LAH"
+      - WEAPON
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: TMP SubMeshUI
+      TermType: 4
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "SETT\u0130NGS"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - AYARLAR
+      - "SETT\u0130NGS"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: UI Overlay Canvas (Swap)
+      TermType: 4
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: AREA
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - ARENA
+      - AREA
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: COMPLETE!
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - TAMAMLANDI!
+      - COMPLETE!
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: CONTINUE
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - DEVAM ET
+      - CONTINUE
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: FAILED!
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "BA\u015EARISIZ!"
+      - "FA\u0130LED!"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "SEV\u0130YE"
+      - LEVEL
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: NEXT CHARACTER
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "SIRADAK\u0130 KARAKTER"
+      - NEXT CHARACTER
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: NEW CREATURE
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "YEN\u0130 KARAKTER"
+      - NEW CREATURE
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: PAUSED
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - DURAKLATILDI
+      - PAUSED
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: TAP TO CONTINUE
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - DEVAM ET
+      - TAP TO CONTINUE
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: REVIVE
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - CANLANDIR
+      - REVIVE
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: RESUME
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "S\xDCRD\xDCR"
+      - RESUME
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: UNLOCKED!
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "A\xC7IK!"
+      - UNLOCKED!
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: EXIT
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "\xC7IK"
+      - EXIT
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: CLAIM
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - AL
+      - CLAIM
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "A\xC7IK"
+      - UNLOCKED
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: RECOMENDED
+      TermType: 0
+      Description: 
+      Languages:
+      - ar
+      - "\u0130DEAL G\xDC\xC7"
+      - RECOMENDED
+      - af
+      - chin
+      - cro
+      - dut
+      - fr
+      - gr
+      - grek
+      - indo
+      - italive
+      - jp
+      - kore
+      - norw
+      - pers
+      - pol
+      - por
+      - rom
+      - rus
+      - span
+      - swe
+      - "th\u0131"
+      - ukry
+      - viet
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "D\u0130LLER"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "D\u0130LLER"
+      - LANGUAGES
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "ARAB\u0130C"
+      TermType: 0
+      Description: 
+      Languages:
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      - "ARAB\u0130C"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "TURK\u0130SH"
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      - "T\xDCRK\xC7E"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "ENGL\u0130SH"
+      TermType: 0
+      Description: 
+      Languages:
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      - "ENGL\u0130SH"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "AFR\u0130CAAN"
+      TermType: 0
+      Description: 
+      Languages:
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      - "AFR\u0130CAANS"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "CH\u0130NESE"
+      TermType: 0
+      Description: 
+      Languages:
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      - "CH\u0130NESE"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "CROAT\u0130AN"
+      TermType: 0
+      Description: 
+      Languages:
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      - "HRVATSK\u0130"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Button
+      TermType: 0
+      Description: 
+      Languages:
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      - NEDERLANDS
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: FRENCH
+      TermType: 0
+      Description: 
+      Languages:
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      - "FRAN\xC7A\u0130S"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: GERMAN
+      TermType: 0
+      Description: 
+      Languages:
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      - DEUTSCH
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: GREEK
+      TermType: 0
+      Description: 
+      Languages:
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      - "ELL\u0130N\u0130KA"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u0130NDONES\u0130AN"
+      TermType: 0
+      Description: 
+      Languages:
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      - "BAHASA \u0130NDONES\u0130A"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u0130TAL\u0130AN"
+      TermType: 0
+      Description: 
+      Languages:
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      - "ITAL\u0130ANO"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: JAPANESE
+      TermType: 0
+      Description: 
+      Languages:
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      - JAPANESE
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: KOREAN
+      TermType: 0
+      Description: 
+      Languages:
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      - KOREAN
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "NORWEG\u0130AN"
+      TermType: 0
+      Description: 
+      Languages:
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      - NORSK
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "V\u0130ETNAMESE"
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      - "T\u0130ENG V\u0130ET"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "UKRA\u0130N\u0130AN"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - UKRAYNACA
+      - "UKRA\u0130N\u0130AN"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "THA\u0130"
+      TermType: 0
+      Description: 
+      Languages:
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      - "THA\u0130"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "POLSK\u0130"
+      TermType: 0
+      Description: 
+      Languages:
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      - POLSKI
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: PORTUGUES
+      TermType: 0
+      Description: 
+      Languages:
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      - PORTUGUES
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "FLEMENK\xC7E"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: ROMANIAN
+      TermType: 0
+      Description: 
+      Languages:
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      - ROMANA
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: tr SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: ESPANOL
+      TermType: 0
+      Description: 
+      Languages:
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      - ESPANOL
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "PERS\u0130AN"
+      TermType: 0
+      Description: 
+      Languages:
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      - "PERS\u0130AN"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: "RUSS\u0130AN"
+      TermType: 0
+      Description: 
+      Languages:
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      - "RUSS\u0130AN"
+      Flags: 00000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: '-'
+    mLanguages:
+    - Name: ' Arabic'
+      Code: ar
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Afrikaans
+      Code: af
+      Flags: 0
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Croatian
+      Code: hr
+      Flags: 0
+    - Name: Dutch
+      Code: nl
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: Greek
+      Code: el
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Norwegian
+      Code: nb
+      Flags: 0
+    - Name: Persian
+      Code: fa
+      Flags: 0
+    - Name: Polish
+      Code: pl
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Romanian
+      Code: ro
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Swedish
+      Code: sv
+      Flags: 0
+    - Name: Thai
+      Code: th
+      Flags: 0
+    - Name: Ukrainian
+      Code: uk
+      Flags: 0
+    - Name: Vietnamese
+      Code: vi
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 12800000, guid: 769d4a2288b99004184236f5fc4469c8, type: 3}
+    - {fileID: 12800000, guid: 10a77611699281f4ead51d19d2036adf, type: 3}
+    - {fileID: 11400000, guid: a86685887da996e4490bcc2c6548ef6b, type: 2}
+    - {fileID: 11400000, guid: b9b7ace9cc0cb7a48ba5cbaace6bc9e3, type: 2}
+    - {fileID: 11400000, guid: 7c983e1c2068f2e46a141b01d25267f2, type: 2}
+    - {fileID: 11400000, guid: 1af6f11d4b4b1814c80fdd7deb71c23b, type: 2}
+    Spreadsheet_LocalFileName: Resources/new.csv
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
